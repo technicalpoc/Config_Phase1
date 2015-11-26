@@ -1,2 +1,2 @@
-sleep 10
+export HOSTNAME=$HOST
 java -Djava.security.egd=file:/dev/./urandom -jar /app/app.jar
